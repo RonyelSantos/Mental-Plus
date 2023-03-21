@@ -1,0 +1,17 @@
+Trabalho será realizado em duas partes:
+
+1° PARTE - ESCOPO DO PROJETO (ENTREGA SERÁ VALIDA PARA O 5° PERÍODO NA MATERIA DO EMANUEL):
+- Conforme descrições na matéria do professor Emanuel, aplicar as práticas para desenvolver o escopo do projeto.
+
+
+2° PARTE - DESENVOLVIMENTO DO SOFTWARE (ENTREGA SERÁ VALIDA PARA O 4° E 5° PERÍODO NA MATERIA DO ROGERIO):
+- Criar o desenvolvimento mobile na linguagem DART
+	Será necessário as funções abaixo:
+	cadastro paciente;
+	cadastro psicologo;
+	agendamento consulta (liberação do horário caso algum desmarcar);
+	historico consulta;
+	teleatendimento (se der)**;
+
+- Todo desenvolvimento será acompanhado via GIT HUB:
+	https://github.com/RonyelSantos/Mental-Plus
