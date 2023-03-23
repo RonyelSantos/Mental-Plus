@@ -1,0 +1,47 @@
+Descrição do projeto:
+
+
+Objetivos:
+
+
+Justificativa:
+
+Existem diversas razões para justificar o desenvolvimento de software para ajudar pessoas com ansiedade e depressão, incluindo:
+
+-Prevalência de ansiedade e depressão: A ansiedade e a depressão são problemas de saúde mental muito comuns em todo o mundo, afetando milhões de pessoas. Segundo a OMS (Organização Mundial da Saúde), mais de 264 milhões de pessoas em todo o mundo sofrem de depressão e cerca de 284 milhões de pessoas sofrem de ansiedade.
+-Acesso limitado a cuidados de saúde mental: Embora haja muitos tratamentos eficazes disponíveis para a ansiedade e a depressão, muitas pessoas não têm acesso a eles por uma série de razões, incluindo falta de acesso a profissionais de saúde mental, barreiras financeiras e estigmas culturais.
+-Tecnologia como ferramenta para a saúde mental: A tecnologia pode ser uma ferramenta poderosa para a saúde mental, fornecendo acesso a cuidados de saúde mental em momentos e lugares convenientes para as pessoas. Aplicativos móveis e outras tecnologias podem fornecer intervenções baseadas em evidências, como terapia cognitivo-comportamental (TCC) e meditação, para ajudar as pessoas a lidar com a ansiedade e a depressão.
+-Personalização e flexibilidade: As soluções de software podem ser personalizadas para atender às necessidades individuais dos usuários, fornecendo intervenções específicas que abordam as causas subjacentes da ansiedade e da depressão. Além disso, a flexibilidade da tecnologia permite que as pessoas acessem cuidados de saúde mental em horários convenientes e em seus próprios termos, o que pode aumentar a adesão ao tratamento.
+-Prevenção e detecção precoce: O software pode ser usado não apenas para tratar a ansiedade e a depressão, mas também para prevenir esses problemas e detectá-los precocemente. As tecnologias podem monitorar sinais precoces de ansiedade e depressão, fornecendo intervenções preventivas e conectando as pessoas aos cuidados de saúde mental antes que os problemas se tornem graves.
+-Em resumo, desenvolver software para ajudar pessoas com ansiedade e depressão é importante porque esses problemas são prevalentes e muitas vezes não tratados adequadamente. A tecnologia pode fornecer soluções personalizadas, flexíveis e acessíveis para a saúde mental, ajudando a prevenir, detectar e tratar a ansiedade e a depressão.
+
+
+Escopo do Produto:
+
+Este aplicativo tem como objetivo fornecer ajuda psicológica para pessoas que sofrem com ansiedade e depressão. O aplicativo contará com recursos para ajudar os usuários a gerenciar seus sintomas, melhorar seu bem-estar emocional e encontrar suporte quando necessário.
+
+Principais Características:
+
+-Acesso a um profissional de saúde mental: Os usuários terão acesso a um profissional de saúde mental por meio do aplicativo, com a opção de marcar uma consulta online ou por telefone, dependendo da preferência do usuário.
+-Rastreamento de Humor: Os usuários poderão acompanhar seu humor e sintomas diariamente, com o registro de suas emoções, atividades e pensamentos. Isso ajudará a identificar padrões e auxiliará no gerenciamento de seus sintomas.
+-Exercícios de Relaxamento: O aplicativo oferecerá exercícios de relaxamento guiados, incluindo meditação e técnicas de respiração, que ajudarão os usuários a reduzir a ansiedade e melhorar o humor.
+-Recursos Educativos: O aplicativo fornecerá recursos educativos sobre ansiedade e depressão, incluindo informações sobre tratamentos, estratégias de coping e dicas para lidar com sintomas.
+-Comunidade de Suporte: O aplicativo permitirá que os usuários se conectem com outras pessoas que também estão lutando contra ansiedade e depressão, permitindo que eles compartilhem experiências e ofereçam suporte emocional um ao outro.
+-Notificações e Lembretes: O aplicativo enviará lembretes e notificações para ajudar os usuários a manter o foco em suas metas de saúde mental e lembrá-los de atividades importantes, como sessões de terapia ou exercícios de relaxamento.
+-Segurança e Privacidade: O aplicativo garantirá a privacidade dos usuários, com recursos de segurança para proteger informações confidenciais, como registros de humor e informações de contato do profissional de saúde mental.
+
+
+Escopo do projeto:
+
+
+
+
+
+
+
+**********EXEMPLOS DO EMANUEL SOBRE COMO FAZER******************************
+-Descrição do projeto: descrever do que se trata o projeto, no caso o app do Rogério ( app de ajuda psicológica destinado a pessoas com ansiedade, depressao etc.)
+-Objetivos: SMART: specific, mensurável(colocar 10 perguntas pro usuário responder e avaliar nosso app para que possamos mensurar e melhorar o app) alcançável,relevante, time related. Onde nós queremos chegar criando esse aplicativos, colocar números, um número alcançável, qual a relevância e em quanto tempo queremos alcançar o objetivo. 
+-Justificativa: porque de estarmos desenvolvendo esse app, pesquisar números no país de pessoas com depressao, ansiedade, etc.
+-Escopo do produto: o que vamos construir, funcionalidades, requisitos ex: chat, atendimento emergência, discagem rápida, avaliação, informações sobre doenças tipo como reconhecer os sintomas 
+Escopo do projeto: como vamos fazer tudo que técnico pra fazer o app
