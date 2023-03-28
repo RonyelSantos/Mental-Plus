@@ -10,7 +10,7 @@ class LoginPage extends StatelessWidget {
           left: 40,
           right: 40,
           ),
-          color: Colors.deepPurpleAccent,
+          color: Color(0XFF5BC0F8),
           child: ListView(
             children: <Widget>[
               SizedBox(
@@ -79,8 +79,8 @@ class LoginPage extends StatelessWidget {
                     end: Alignment.bottomRight,
                     stops: [0.3, 1],
                     colors: [                    
-                      Color(0XFF0400D2),
-                      Color(0x1FFF0539),
+                      Color(0XFF262A56),
+                      Color(0XFF002B5B),
                     ],
                   ),
                   borderRadius: BorderRadius.all(
