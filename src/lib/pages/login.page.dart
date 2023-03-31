@@ -1,3 +1,4 @@
+import 'package:app_mental_plus/pages/recuperarSenha.page.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatelessWidget {
@@ -64,7 +65,14 @@ class LoginPage extends StatelessWidget {
                       color: Colors.white,
                     ),             
                   ),
-                  onPressed: null,
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => RecuperarSenha(), 
+                        ),
+                    );
+                  },
                 ),
               ),
               SizedBox(
@@ -99,7 +107,7 @@ class LoginPage extends StatelessWidget {
                       fontSize: 20,
                     ),             
                   ),
-                  onPressed: null,
+                  onPressed: () {},
                 ),
                 ),
               ),
